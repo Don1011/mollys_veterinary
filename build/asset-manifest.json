@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mollys_veterinary_hospital/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mollys_veterinary_hospital/static/js/main.e35ba9b1.chunk.js",
+    "main.js.map": "/mollys_veterinary_hospital/static/js/main.e35ba9b1.chunk.js.map",
+    "runtime-main.js": "/mollys_veterinary_hospital/static/js/runtime-main.194b45b6.js",
+    "runtime-main.js.map": "/mollys_veterinary_hospital/static/js/runtime-main.194b45b6.js.map",
+    "static/js/2.1ebf9181.chunk.js": "/mollys_veterinary_hospital/static/js/2.1ebf9181.chunk.js",
+    "static/js/2.1ebf9181.chunk.js.map": "/mollys_veterinary_hospital/static/js/2.1ebf9181.chunk.js.map",
+    "static/js/3.d0d86d59.chunk.js": "/mollys_veterinary_hospital/static/js/3.d0d86d59.chunk.js",
+    "static/js/3.d0d86d59.chunk.js.map": "/mollys_veterinary_hospital/static/js/3.d0d86d59.chunk.js.map",
+    "index.html": "/mollys_veterinary_hospital/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mollys_veterinary_hospital/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1ebf9181.chunk.js.LICENSE.txt": "/mollys_veterinary_hospital/static/js/2.1ebf9181.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.194b45b6.js",
+    "static/js/2.1ebf9181.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e35ba9b1.chunk.js"
+  ]
+}

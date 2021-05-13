@@ -1,0 +1,70 @@
+.jumbotron-navbar-parent{
+    background-image: url('./jumbotron-image-2.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1
+}
+.jumbotron{
+    background: none;   
+}
+.offset{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 2
+}
+.z-index-0{
+    z-index: 3;
+    position: relative
+}
+.my-primary-bg{
+    background-color: rgb(32, 65, 95);
+    color: #fff;
+}
+.my-secondary-bg{
+    background-color: rgb(51, 185, 202);
+    color: #fff;
+}
+.my-primary-fg{
+    color: rgb(32, 65, 95);
+}
+.my-secondary-fg{
+    color: rgb(51, 185, 202);
+}
+.services-container{
+    padding: 15px;
+    margin: 0 0 15px 0;
+}
+.underline-secondary{
+    border-bottom: 1px solid rgb(51, 185, 202);
+}
+.card-added-styles{
+    border-color: rgb(51, 185, 202);
+}
+.card-added-styles:hover{
+    border-color: rgb(32, 65, 95);
+}
+.card-added-styles:hover h5{
+    /* border-bottom-color: rgb(51, 185, 202); */
+    color: rgb(51, 185, 202);
+}
+.card-added-styles:hover img{
+    height: 130px
+}
+.footer{
+    padding: 0 5%;
+    position: relative;
+    bottom: 0;
+}
+.navbar-custom-links{
+    color: inherit;
+}
+.navbar-custom-links:hover{
+    color: inherit;
+    text-decoration: inherit;
+}
